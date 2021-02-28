@@ -1,0 +1,19 @@
+{
+  "name": "taller-html-css",
+  "version": "1.0.0",
+  "description": "inicio proyecto",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anghellygg/taller-html-css.git"
+  },
+  "author": "Anghelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anghellygg/taller-html-css/issues"
+  },
+  "homepage": "https://github.com/anghellygg/taller-html-css#readme"
+}
