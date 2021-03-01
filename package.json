@@ -4,6 +4,8 @@
   "description": "inicio proyecto",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
+    "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/anghellygg/taller-html-css/issues"
   },
-  "homepage": "https://github.com/anghellygg/taller-html-css#readme"
+  "homepage": "https://github.com/anghellygg/taller-html-css#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
